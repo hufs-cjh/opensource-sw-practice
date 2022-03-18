@@ -10,4 +10,5 @@ def some_func(a, b):
 
     c = a+b+a+b
     print(c)
+
     return c+c+c
