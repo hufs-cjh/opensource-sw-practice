@@ -2,5 +2,9 @@
 
 print("HELLO WORLD!")
 
-print("CHANGE CODE IN FORKED REPO (BUT ORIGIN REPO ALREADY CHANGED)")
 
+def some_func(a, b):
+    print(a)
+    print(b)
+    c = a+b
+    return c
