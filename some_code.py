@@ -9,5 +9,5 @@ def some_func(a, b):
     print(b)
 
     c = a+b
-
+    print(c)
     return c
