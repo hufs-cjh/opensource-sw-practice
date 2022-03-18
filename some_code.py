@@ -8,6 +8,6 @@ def some_func(a, b):
 
     print(b)
 
-     c = a+b+a+b
+    c = a+b+a+b
     print(c)
     return c
