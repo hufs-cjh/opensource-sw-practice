@@ -5,9 +5,9 @@ print("HELLO WORLD!")
 
 def some_func(a, b):
     print(a)
-
+    a = a + b
     print(b)
-
+    b = b + b
     c = a+b+a+b
     print(c)
 
