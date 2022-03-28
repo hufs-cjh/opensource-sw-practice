@@ -12,3 +12,6 @@ def some_func(a, b):
     print(c)
 
     return c+c+c
+
+x, y=map(int, input().split())
+print(some_func(x, y))
